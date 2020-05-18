@@ -7,7 +7,9 @@ public class Main {
         //ThreadSafeStack.ThreadSafeStackTest();
         //BubbleSort.bubbleSortTest();
         //SelectionSort.selectSortTest();
+        //InsertionSort.insertionSortTest();
         //ReverseString.reverseStringTest();
+        ReverseInteger.reverseIntegerTest();
     }
 
 
